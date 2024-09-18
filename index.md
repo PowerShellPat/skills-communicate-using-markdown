@@ -10,3 +10,9 @@ Adding text to heading 1
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+# Task list
+
+* [x] Task 1
+* [x] Task 2
+* [ ] Task 3
